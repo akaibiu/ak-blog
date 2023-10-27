@@ -1,0 +1,15 @@
+{
+  "name": "ak-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Akai",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs"
+  },
+  "devDependencies": {
+    "less": "^4.2.0",
+    "vitepress": "1.0.0-beta.1"
+  }
+}

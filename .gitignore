@@ -1,0 +1,11 @@
+# 忽略打包后的 dist 目录
+/dist/
+
+# 忽略 node_modules 文件夹
+/node_modules/
+
+# 忽略 cache 文件夹
+/cache/
+
+# 忽略所有 .log 文件
+*.log
