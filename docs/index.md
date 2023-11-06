@@ -9,7 +9,7 @@ hero:
   text: Akai's Blog!
   tagline: 这不只是一场单人首演，让是我离梦想又近了一步。
   image:
-    src: /logo.svg
+    src: https://varlet.gitee.io/varlet-ui/varlet_icon.png
     alt: Sale-Phine
   actions:
     - theme: brand

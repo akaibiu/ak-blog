@@ -12,7 +12,7 @@
 + [Dcloud开源插件合集](https://ext.dcloud.net.cn/publisher?id=690316)
 + [CSDN文章精选合集](https://blog.csdn.net/weixin_56083194?type=blog)
 + [语雀文章精选合集](https://www.yuque.com/u21729372/kwgz8c)
-+ [图鸟UI-团队](https://vue2.tuniaokj.com/cooperation/about.html)
++ [图鸟UI官方文档](https://vue2.tuniaokj.com/cooperation/about.html)
 
 ***
 
@@ -26,9 +26,7 @@
 ***
 
 
-<font color="#dd00dd">  &ensp;&ensp;&ensp;&ensp;此网站博客模板以及个人作品全部开源，所有开源文章项目皆可转载使用(© 著作权归作者所有)，所有资源创作整理不易，烦请麻烦大家备注一下出处。🌹🌹希望你前程似锦，祝愿你往后的每一天都是艳阳高照风和日丽!</font><br />
+<font color="#dd00dd">  &ensp;&ensp;&ensp;&ensp;此网站博客模板以及个人作品全部开源，所有开源文章项目皆可转载使用(© 著作权归作者所有)，所有资源创作整理不易，烦请麻烦大家备注一下出处。🌹🌹愿君前程似锦!</font><br />
 <br />
-
-<img src="https://mp-544a8cd9-03b3-41fd-9f50-daa7de994b60.cdn.bspapp.com/cloudstorage/350bbf07-8a90-4f73-9ca9-833d583b9759.jpg" width="240"/>
 
 <Valine></Valine>

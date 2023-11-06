@@ -40,7 +40,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright ©2023-present Sale-Phine | 蜀ICP备2023001030号'
+      copyright: 'Copyright ©2023-present Sale-Phine | 蜀ICP备2023003936号'
     },
 
     nav: [
@@ -96,6 +96,9 @@ export default defineConfig({
             },{
               text: 'css梯形选项卡',
               link: '/article/css/css梯形选项卡'
+            },{
+              text: 'css上三下二',
+              link: '/article/css/css用grid实现上三下二布局'
             }
           ]
         },{
