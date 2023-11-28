@@ -1,0 +1,1 @@
+import{_ as l,o as i,c as t,V as e}from"./chunks/framework.ed8632ae.js";const f=JSON.parse('{"title":"🚤 html","description":"","frontmatter":{},"headers":[],"relativePath":"book/html.md","filePath":"book/html.md"}'),a={name:"book/html.md"},o=e("",2),_=[o];function r(s,c,n,h,m,d){return i(),t("div",null,_)}const u=l(a,[["render",r]]);export{f as __pageData,u as default};

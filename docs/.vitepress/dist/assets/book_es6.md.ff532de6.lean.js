@@ -1,1 +1,0 @@
-import{_ as i,o as l,c as e,V as t}from"./chunks/framework.6e551575.js";const m=JSON.parse('{"title":"⛴️ es6","description":"","frontmatter":{},"headers":[],"relativePath":"book/es6.md","filePath":"book/es6.md"}'),a={name:"book/es6.md"},o=t("",2),s=[o];function _(r,c,n,d,h,p){return l(),e("div",null,s)}const u=i(a,[["render",_]]);export{m as __pageData,u as default};

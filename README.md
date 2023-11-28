@@ -1,4 +1,4 @@
-﻿# VitePress Blog 
+# VitePress Blog 
 
 #### 介绍
 基于vitepress搭建的个人博客项目。文章采用markdown语法编写。目前部署于uniCloud。
@@ -7,7 +7,7 @@
 
 博客地址：https://salephine.asia
 
-项目地址(github)：https://github.com/akaibiu/ak-blog-github
+项目地址(gitee)：https://gitee.com/AkaiBlog/akai-blog
 
 #### 软件架构
 

@@ -47,6 +47,7 @@ export default defineConfig({
       { text: '文章博客', link: '/article/README', activeMatch: '/article/' },
       { text: '笔记收录', link: '/book/README', activeMatch: '/book/' },
       { text: '工具整理', link: '/tool/README', activeMatch: '/tool/' },
+      { text: '友情链接', link: '/friendly/info', activeMatch: '/friendly/' },
       { text: '插件说明', link: '/plugin-info/README', activeMatch: '/plugin-info/' },
       { text: '关于作者.｡o○', link: '/mine/README', activeMatch: '/mine/' },
       {
@@ -172,6 +173,9 @@ export default defineConfig({
             }, {
               text: 'JS生成随机颜色',
               link: '/article/javascript/JS生成随机颜色'
+            }, {
+              text: 'JS浏览器跨窗口通信',
+              link: '/article/javascript/JS浏览器跨窗口通信'
             }
           ]
         },{

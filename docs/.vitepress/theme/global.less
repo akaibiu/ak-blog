@@ -95,6 +95,25 @@
     Also specify some classes twice to have higher specificity
     over scoped class data attribute.
   */
+  .VPTeamMembersItem{
+    height:240px !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    cursor: pointer;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  }
+  .VPTeamMembersItem:hover .profile{
+    box-shadow: plum 1.95px 1.95px 2.6px;
+    background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  }
+  .VPTeamMembersItem{
+    .avatar{
+      transition: transform .3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+      transform-origin: 0% 50%;
+    }
+    &:hover .avatar{
+      transform: scale(1.2);
+    }
+  }
   .dark .vp-doc a,
   .dark .vp-doc a > code,
   .dark .VPNavBarMenuLink.VPNavBarMenuLink:hover,
@@ -104,6 +123,7 @@
   .dark .edit-link-button.edit-link-button,
   .dark .pager-link .title {
     color: var(--vp-c-brand-lighter);
+    color: #fff !important;
   }
   
   .dark .vp-doc a:hover,
