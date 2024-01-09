@@ -1,12 +1,10 @@
 # :rowboat: css渐变文字
 
 
-
 >在日常开发学习中，可能会遇到一些渐变文字的业务，以下是案例是现代吗整理整理，一起看看吧....
 
 
-
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

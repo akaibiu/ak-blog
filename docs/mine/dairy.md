@@ -91,4 +91,4 @@
 * Weather:🌦️
 * Mood:🥺
   
-<font color="#dd00dd" face="楷体" size="5">呃，就从今天开始停止更新吧，我想内耗!... 希望大家快乐幸福！</font>
+<font color="#dd00dd" face="楷体" size="5">呃，就从今天开始停止更新吧... 希望大家快乐幸福工作顺心萬事如意！</font>

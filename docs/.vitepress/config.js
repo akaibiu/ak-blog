@@ -100,6 +100,18 @@ export default defineConfig({
             },{
               text: 'css上三下二',
               link: '/article/css/css用grid实现上三下二布局'
+            },{
+              text: 'css星空效果',
+              link: '/article/css/css星空效果'
+            },{
+              text: 'css漂浮气泡效果',
+              link: '/article/css/css漂浮旗袍效果'
+            },{
+              text: 'css满屏小星星效果',
+              link: '/article/css/css满屏小星星效果'
+            },{
+              text:'css设置checkbox默认样式',
+              link:'/article/css/css设置checkbox默认样式'
             }
           ]
         },{
@@ -242,8 +254,11 @@ export default defineConfig({
               text:'uniapp小程序设置动态样式',
               link: '/article/uniapp/uniapp小程序设置动态样式'
             },{
-              text:'uniapp实现梯形选项卡',
+              text:'uniapp中设置checkbox样式',
               link: '/article/uniapp/uniapp实现梯形选项卡'
+            },{
+              text:'uniapp实现梯形选项卡',
+              link: '/article/uniapp/uniapp中设置checkbox样式'
             }
           ]
         },{
@@ -370,6 +385,15 @@ export default defineConfig({
             {
               text: 'Dcloud插件(即uniapp前端开发项目模板)',
               link: '/plugin-info/README'
+            },{
+              text: 'Akai-xz|仅Tuniao-Ui项目框架说明',
+              link: '/plugin-info/Akai-xz使用说明文档'
+            },{
+              text: 'Akai-hy|仅uView-Ui项目框架说明)',
+              link: '/plugin-info/Akai-hy使用说明文档'
+            },{
+              text: 'Akai-sy|含Tuniao-Ui和uView-Ui项目框架说明',
+              link: '/plugin-info/Akai-sy使用说明文档'
             }
           ]
         }

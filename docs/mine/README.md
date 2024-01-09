@@ -4,11 +4,9 @@
 
 ***
 
-### 阿凯个人项目导航
-+ [博客开源项目gitee地址](https://gitee.com/AkaiBlog/akai-blog.git)
-+ [博客开源项目github地址](https://github.com/akaibiu/akaibui.github.io.git)
-+ [Gitee开源项目合集](https://gitee.com/AkaiBlog)
-+ [Github开源项目合集](https://github.com/akaibiu)
+### 一些站点导航
++ [Gitee开源项目合集这套博客模板也在这里奥!](https://gitee.com/AkaiBlog)
++ [Github开源项目合集(这套博客模板也在这里奥!)](https://github.com/akaibiu)
 + [Dcloud开源插件合集](https://ext.dcloud.net.cn/publisher?id=690316)
 + [CSDN文章精选合集](https://blog.csdn.net/weixin_56083194?type=blog)
 + [语雀文章精选合集](https://www.yuque.com/u21729372/kwgz8c)
@@ -17,11 +15,11 @@
 ***
 
 ### 技术交流与合作您可联系作者：
-*  QQ群        **531573361**
 *  Wechat      **Akaibiu**
 *  Email `akaibiu@126.com`     `akaipiu@163.com`   `1494598731@qq.com` 
+*  如果提示微信群二维码过期，请加微信进群!
 <br />
-<br /><img src="https://mp-544a8cd9-03b3-41fd-9f50-daa7de994b60.cdn.bspapp.com/cloudstorage/312de71b-c912-4810-bcee-7944c7f4ae27.png" width="188" /><img src="https://mp-544a8cd9-03b3-41fd-9f50-daa7de994b60.cdn.bspapp.com/cloudstorage/8c467fb0-5827-448f-94c0-87f428f9c8eb.jpg" width="200"/><img src="https://mp-544a8cd9-03b3-41fd-9f50-daa7de994b60.cdn.bspapp.com/cloudstorage/b6630d78-0859-4f50-a6b6-1d6c73b8b375.jpg" width="200" height="260" />
+<br /><img src="https://mp-544a8cd9-03b3-41fd-9f50-daa7de994b60.cdn.bspapp.com/cloudstorage/8c467fb0-5827-448f-94c0-87f428f9c8eb.jpg" width="200"/><img width="220" src="https://mp-544a8cd9-03b3-41fd-9f50-daa7de994b60.cdn.bspapp.com/Akai-hy/wechat-group.png">
 
 ***
 
