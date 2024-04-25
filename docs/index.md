@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Sale-Phine
-titleTemplate: 这不只是一场单人首演，让是我离梦想又近了一步。
+title: 您好，我是阿凯
+titleTemplate: 很高兴在这里见到你!
 
 hero:
   name: Sale-Phine
   text: Akai's Blog!
-  tagline: 这不只是一场单人首演，让是我离梦想又近了一步。
+  tagline: 太阳下山有月光，月亮落下有朝阳。
   image:
     src: https://varlet.gitee.io/varlet-ui/varlet_icon.png
     alt: Sale-Phine
@@ -23,12 +23,12 @@ hero:
       link: https://gitee.com/AkaiBlog
 features:
   - icon: 🙍
-    title: Motto
-    details: 'Life is full of ups and downs.'
+    title: MOTTO
+    details: 'Live and let live.'
   - icon: 🏂
-    title: Skill
+    title: SKILL
     details: 'Have a good impression of Vue.'
   - icon: 🏘️
-    title: Intro
+    title: INTRO
     details: 'A front-end developers in ChengDu！'
 ---

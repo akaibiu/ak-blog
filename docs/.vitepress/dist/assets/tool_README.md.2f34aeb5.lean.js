@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as a,V as t}from"./chunks/framework.ed8632ae.js";const _=JSON.parse('{"title":"小网站","description":"","frontmatter":{},"headers":[],"relativePath":"tool/README.md","filePath":"tool/README.md"}'),l={name:"tool/README.md"},n=t("",19),o=[n];function i(s,h,p,c,f,u){return r(),a("div",null,o)}const d=e(l,[["render",i]]);export{_ as __pageData,d as default};
