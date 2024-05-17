@@ -259,10 +259,10 @@ export default defineConfig({
               text:'uniapp小程序设置动态样式',
               link: '/article/uniapp/uniapp小程序设置动态样式'
             },{
-              text:'uniapp中设置checkbox样式',
+              text:'uniapp实现梯形选项卡',
               link: '/article/uniapp/uniapp实现梯形选项卡'
             },{
-              text:'uniapp实现梯形选项卡',
+              text:'uniapp中设置checkbox样式',
               link: '/article/uniapp/uniapp中设置checkbox样式'
             }
           ]
