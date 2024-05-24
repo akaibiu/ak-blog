@@ -390,15 +390,6 @@ export default defineConfig({
             {
               text: 'Dcloud插件(即uniapp前端开发项目模板)',
               link: '/plugin-info/README'
-            },{
-              text: 'Akai-xz|仅Tuniao-Ui项目框架说明',
-              link: '/plugin-info/Akai-xz使用说明文档'
-            },{
-              text: 'Akai-hy|仅uView-Ui项目框架说明)',
-              link: '/plugin-info/Akai-hy使用说明文档'
-            },{
-              text: 'Akai-sy|含Tuniao-Ui和uView-Ui项目框架说明',
-              link: '/plugin-info/Akai-sy使用说明文档'
             }
           ]
         }

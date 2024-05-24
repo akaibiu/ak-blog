@@ -7,7 +7,7 @@ titleTemplate: 很高兴在这里见到你!
 hero:
   name: Sale-Phine
   text: Akai's Blog!
-  tagline: 太阳下山有月光，月亮落下有朝阳。
+  tagline: 拨开面纱回望故乡，只见潮湿的月亮。
   image:
     src: https://varlet.gitee.io/varlet-ui/varlet_icon.png
     alt: Sale-Phine

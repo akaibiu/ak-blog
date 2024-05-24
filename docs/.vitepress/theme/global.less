@@ -95,25 +95,105 @@
     Also specify some classes twice to have higher specificity
     over scoped class data attribute.
   */
-  .VPTeamMembersItem{
-    height:240px !important;
-    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-    cursor: pointer;
-    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  .VPTeamMembersItem {
+    --background: linear-gradient(to right, #74ebd5 0%, #acb6e5 100%);
+    width: 33%;
+    height: 270px;
+    padding: 5px;
+    border-radius: 1rem;
+    overflow: visible;
+    background: #74ebd5;
+    background: var(--background);
+    position: relative;
+    z-index: 1;
+  }
+  
+  .VPTeamMembersItem::before,
+  .VPTeamMembersItem::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+    z-index: -1;
+  }
+  
+  .VPTeamMembersItem::before {
+    background: linear-gradient(to bottom right, #f6d365 0%, #fda085 100%);
+    transform: rotate(2deg);
+  }
+  
+  .VPTeamMembersItem::after {
+    background: linear-gradient(to top right, #84fab0 0%, #8fd3f4 100%);
+    transform: rotate(-2deg);
+  }
+  
+   .VPTeamMembersItem .profile {
+    --color: #292b2c;
+    // --color: #fff;
+    // background: var(--color);
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    // color: var(--color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    border-radius: 0.7rem;
+    position: relative;
+    z-index: 2;
+  }
+  .VPTeamMembersItem .profile .title{
+    color: #ffa726;
+  }
+  .VPTeamMembersItem .profile .VPSocialLink{
+    color: #ffd392;
+  }
+  
+  .VPTeamMembersItem .title {
+    font-weight: bold;
+    letter-spacing: 0.1em;
+  }
+  
+  .VPTeamMembersItem:hover::before,
+  .VPTeamMembersItem:hover::after {
+    opacity: 0;
+  }
+  .VPTeamMembersItem:hover .avatar-img{
+    transform: rotate(360deg);
+    transition: all .6s linear;
   }
   .VPTeamMembersItem:hover .profile{
-    box-shadow: plum 1.95px 1.95px 2.6px;
-    background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+    background-image: linear-gradient(-20deg, #fbfcdb 0%, #e9defa 100%)
   }
-  .VPTeamMembersItem{
-    .avatar{
-      transition: transform .3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
-      transform-origin: 0% 50%;
-    }
-    &:hover .avatar{
-      transform: scale(1.2);
-    }
+  .VPTeamMembersItem:hover .card-info {
+    color: #74ebd5;
+    transition: color 1s;
   }
+  
+  // .VPTeamMembersItem{
+  //   height:240px !important;
+  //   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  //   cursor: pointer;
+  //   background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  // }
+  // .VPTeamMembersItem:hover .profile{
+  //   box-shadow: plum 1.95px 1.95px 2.6px;
+  //   background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  // }
+
+  // .VPTeamMembersItem{
+  //   .avatar{
+  //     transition: transform .3s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+  //     transform-origin: 0% 50%;
+  //   }
+  //   &:hover .avatar{
+  //     transform: scale(1.2);
+  //   }
+  // }
   .dark .vp-doc a,
   .dark .vp-doc a > code,
   .dark .VPNavBarMenuLink.VPNavBarMenuLink:hover,

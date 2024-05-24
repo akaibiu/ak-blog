@@ -9,10 +9,10 @@ showComment: false
 <img width=100% src="/img/life/about-me-header.svg" alt="头部图" />
 <p align="center">
     <a href="https://github.com/akaibiu" target="_blank" style="display: inline-block;">
-        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Akai-lightblue?logo=github" />
+        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-AKAI-lightblue?logo=github" />
     </a>&nbsp;
     <a href="https://gitee.com/AkaiBlog" target="_blank" style="display: inline-block;">
-        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-Akai-C71D23?logo=gitee&logoColor=C71D23" />
+        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-AKAI-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
     <a href="https://www.yuque.com/u21729372" target="_blank" style="display: inline-block;">
         <img alt="语雀个人主页" src="https://img.shields.io/badge/语雀-阿凯-38D27D" />
@@ -22,24 +22,54 @@ showComment: false
 ---
 - 👋 您好，我是阿凯!
 - 📖 回首往昔，光阴似箭。学识尚浅，阅历如初。谨以此站，与君共勉。
+- 👋 如果你也喜欢赵雷的歌,那我们很快就可以成为聊得来的朋友。
 - 🔭 若有疑惑交流、技术合作或遇知音。以下有我的联系方式。
-- 🔭 WeChat: **Akaibiu**
+- ✏️ WeChat: **Akaibiu**
 - 📫 Email: [akaibiu@126.com](mailto:akaibiu@126.com)
-<br /><img src="https://mp-0d2ef0be-59ea-4692-a25d-5fe5485a6494.cdn.bspapp.com/sale-phine/wechat.jpg" width="200"/><img width="200" src="https://mp-0d2ef0be-59ea-4692-a25d-5fe5485a6494.cdn.bspapp.com/sale-phine/wechat-group.jpg">
+<br /><img src="https://mp-0d2ef0be-59ea-4692-a25d-5fe5485a6494.cdn.bspapp.com/sale-phine/wechat.jpg" width="200"/><img width="200" src="https://mp-0d2ef0be-59ea-4692-a25d-5fe5485a6494.cdn.bspapp.com/sale-phine/wx-group-may-31.jpg">
 
 ---
-::: tip 《Are you Ok?》
+::: tip 《程艾影》
 
-我干了30多年，回头一望，全是漫长的挫折和煎熬，和大家一样，我也迷茫
+伍岚正和程艾影从上海到武汉
 
-我也曾经动摇甚至放弃过，我想跟大家说我们不要逃避
+他们要坐十天马车三天两夜的轮船
 
-你经历的所有的挫折和失败，甚至那些看似毫无意义，消磨时间的事情
+泥路上艾影含着糖 靠着岚正的肩膀
 
-都将成为你最重要的，最宝贵的财富，人生很长，永远相信美好的事情即将发生
+马车经过村庄 石路颠簸不渝的情肠
+
+一路望 跌跌撞 午夜流星何去何往
+
+路海长 青夜旷 越过群山追斜阳
+
+拨开面纱回望故乡 只见潮湿的月亮
+
+雨水冲不掉常德路上爬满蛛网的门窗
+
+梦里回到他的身旁 蜜语中风不再凉
+
+永远都像初次见你那样 使我心荡漾
+
+没有奇迹 没有惊喜 尘埃里花不会哭泣
+
+没有质疑 没有道理 褶皱的信乘飞雨
+
+一路望 跌跌撞 午夜流星何去何往
+
+路海长 青夜旷 越过群山追斜阳
+
+没有奇迹 没有惊喜 尘埃里花不会哭泣
+
+没有质疑 没有道理 褶皱的信乘飞雨
+
+漫山遍野你的脸庞 唯有遗忘是最漫长
+
+这是一条必经的路 没有指引出口的光
+
 
 <p align="right">
-    -- 小米CEO-雷军
+    -- 雷子
 </p>
 
 
@@ -63,8 +93,8 @@ showComment: false
 
 
 ### LINK
-+ [Gitee开源项目合集这套博客模板也在这里奥!](https://gitee.com/AkaiBlog)
-+ [Github开源项目合集(这套博客模板也在这里奥!)](https://github.com/akaibiu)
++ [Gitee开源项目合集-这套博客模板也在这里奥!](https://gitee.com/AkaiBlog)
++ [Github开源项目合集(-这套博客模板也在这里奥!)](https://github.com/akaibiu)
 + [Dcloud开源插件合集](https://ext.dcloud.net.cn/publisher?id=690316)
 + [CSDN文章精选合集](https://blog.csdn.net/weixin_56083194?type=blog)
 + [语雀文章精选合集](https://www.yuque.com/u21729372/kwgz8c)
